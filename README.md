@@ -38,7 +38,6 @@ This project visualizes official EU livestock trade data using **R** and **ggplo
 
 ---
 
----
 
 ## 🧠 Key Insights
 
