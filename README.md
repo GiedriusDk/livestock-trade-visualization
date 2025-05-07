@@ -56,8 +56,8 @@ Full project documentation (in Lithuanian):
 
 ## 📸 Sample Graphs
 
-<img src="https://github.com/user-attachments/assets/5284ff03-de18-4826-b417-ae425019ee12" width="400"/>
-<img src="https://github.com/user-attachments/assets/d510df37-8c15-49bd-8134-f2af09188b27" width="400"/>
-<img src="https://github.com/user-attachments/assets/b9eb1f39-819e-47f9-a0d6-d26500750c8f" width="400"/>
-<img src="https://github.com/user-attachments/assets/94392d68-fad5-4c21-b82c-6083be2f7beb" width="400"/>
+<img src="https://github.com/user-attachments/assets/6217f7ba-b0cf-4342-8355-72bdc5edc3d1" width="400"/>
+<img src="https://github.com/user-attachments/assets/5284ff03-de18-4826-b417-ae425019ee12" />
+<img src="https://github.com/user-attachments/assets/9f8975de-9033-4f33-9054-8cf5549abbe4" width="400"/>
+<img src="https://github.com/user-attachments/assets/d40399ae-1750-40a6-a197-4ac94fbf010e" width="400"/>
 
